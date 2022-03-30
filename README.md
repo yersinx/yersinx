@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @yersinx
+- 👋 Hi, I’m Paulina
 - 👀 I’m interested in microbiology, food and sport
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me? I'm on dark side of the moon
 
 <!---
