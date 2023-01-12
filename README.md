@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulina
 - 👀 I’m interested in microbiology, food and sport
-- 🌱 I’m currently learning softwere testing
+- 🌱 I’m currently learning software testing
 - 📫 How to reach me? I'm on dark side of the moon
 
 <!---
