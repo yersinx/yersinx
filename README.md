@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulina
-- 👀 I’m interested in microbiology, food and sport
-- 🌱 I’m currently learning software testing
+- 👀 I’m working as a software tester in gaming industry. I'm having a lot of fun and learning amazing things. Currently I'm learning HTML, CSS
+- 🌱 I’m interested in microbiology, food and sport
 - 📫 How to reach me? I'm on dark side of the moon
 
 <!---
